@@ -1,6 +1,12 @@
-- 👋 Hi, I’m Krunal Patel
+## Hi there 👋
+### I'm Krunal Patel, Software Engineer - Android
+(7+ Exp | Android | Kotlin | Automotive | iOS | Swift)
+
+- 👀 Currently working on Android, Automotive, Kotlin.
+- 📝 Read articles on Medium: [@krunalpatel1992](https://medium.com/@krunalpatel1992)
 - 👀 I’m interested in mobile application development specially in Android and IOS. 
 - 🌱 I’m currently learning competitive programming. Also exploring hybrid application development platform.
+- 📫 How to reach me : krunalkbalar@gmail.com
 
 <!---
 - 💞️ I’m looking to collaborate on ...

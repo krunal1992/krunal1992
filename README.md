@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Krunal Patel, Software Engineer - Android
+### I'm Krunal Patel, Mobile Application Developer - Android
 (7+ Exp | Android | Kotlin | Automotive | iOS | Swift)
 
 - 👀 Currently working on Android, Automotive, Kotlin.
